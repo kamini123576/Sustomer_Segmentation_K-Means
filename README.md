@@ -1,1 +1,1 @@
-# Sustomer_Segmentation_K-Means
+# Customer_Segmentation_K-Means
